@@ -6,7 +6,7 @@ import "./index.css";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/cdelzell">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
