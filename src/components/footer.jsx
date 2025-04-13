@@ -9,14 +9,14 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="contact">
-        <a
+        {/* <a
           className="email"
           href="mailto:claradelzell@gmail.com"
           target="_blank"
           title="Send me an email!"
         >
           <p>claradelzell@gmail.com</p>
-        </a>
+        </a> */}
         <div className="icons">
           <a
             href="https://www.linkedin.com/in/claradelzell/"
@@ -48,9 +48,9 @@ function Footer() {
           </a>
         </div>
 
-        <a className="phone" href="tel:6309454957">
+        {/* <a className="phone" href="tel:6309454957">
           <p>630-945-4957</p>
-        </a>
+        </a> */}
       </div>
     </footer>
   );
