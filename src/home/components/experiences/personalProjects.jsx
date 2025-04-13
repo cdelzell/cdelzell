@@ -3,7 +3,7 @@ import Experience from "./experience";
 import ticket from "/assets/experiences/ticket_to_ride.png";
 import bright from "/assets/experiences/bright.png";
 import portfolio1 from "/assets/experiences/portfolio_original.png";
-import portfolio2 from "/assets/experiences/raikes.png";
+import portfolio2 from "/assets/experiences/portfolio.png";
 
 import "./experience.css";
 
